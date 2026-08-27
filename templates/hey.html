@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: social media story
+{% endblock %}
+{% block content %}
+<h1># music-at-first-sight</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : Two people crossing paths on the same floor triggers events that can be tender, explosive, or transformative, unlike two forces uniting, more like two chemical provoking risky explosion. The meeting is treated as a dramatic device—sometimes playful (water bombs), sometimes dangerous—whose consequences drive the story and the music. They decide to turn this into something playful , they take the same boat together. at the end of the day, that makes their truth invert. the one who was more I want that nw, or I dont want to see something else than me is more connected to the world, the one that was more connected to the world is more trying to listen, to see, trying to be her/his own self, the one who was more tending to turn into his/her feelings is more open to the world.
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
