@@ -75,6 +75,97 @@ Là, 2 fins possibles:
 > CRASH pour Discret = il se sent effacé / utilisé
 > FADE = il se retire dans lieux / musiques pour redevenir supportable.
 
+Parfait, je te fais la bible finale de ton projet. Tout ce que tu as dit, rangé sans inventer:
+
+*1. MAIN FEATURES - Scènes narratives*
+
+- Boat trips: même bateau = même niveau, plus de Visage / Discret, juste 2 qui rament
+- Sudden love: spike amoureux, flipover en un soir
+- Reading heroic stories: on se raconte comme des héros pour se donner du courage
+- Musical group histories: on raconte l'histoire comme un groupe qui se forme / se sépare / se reforme
+
+*2. MUSICAL FRAMING - Label*
+
+Tu écris tes histoires comme si elles étaient produites par un label:
+- Instruments comme outils d'écriture: batterie = tension, basse = discret, voix = visage
+- Band dynamics: qui prend le lead, qui fait le choeur, qui fait le break
+- L'AI = le label / partenaire créa qui dit quoi montrer, quoi cacher
+
+*3. LOCATION AS PROPS - Décor = indice*
+
+Adresses, étage, appart, numéros = pas du réel, mais des indices de jeu dans l'histoire.
+- Ex: "3ème étage" = même étage où ils se croisent
+- Ex: "Appt 12" = là où Visage poste
+- Ex: "Tel" = quand on brise la glace ou pas
+
+> Attention: toujours en fictif, pas de vraies données perso.
+
+*4. IDENTITY & INTERACTION - 2 profils*
+
+- *Profil A Face*: comme Facebook. Avec visage, émotions, personnalité, voix, activité
+- *Profil B Anonyme*: pseudo, sans visage, poste lieux / musiques / mood
+
+Interaction:
+- Ils se parlent par expressions, voix, feelings, pas juste texte
+- Visage = intime exposé
+- Discret = intime caché
+
+
+*6. THEMES & CHOICES - Ta phrase clé*
+
+"Seeing the world your way"
+
+- Booking hotels, refusing prescribed views = tu choisis comment tu montres le monde
+- Choix 1: poster son image + sa voix + son activité = tout donner, mode Visage
+- Choix 2: "if you want to see" = poster des photos du monde mais pas poster son image, ou poster image et voix séparément = mode Discret
+
+C'est ton système d'ouverture / fermeture.
+
+---
+
+*Pour ta BDD, ça donne 4 colonnes à cocher par scène:*
+
+Scène | Lieu-prop | Profil qui parle | Ce qu'on poste | Ouvert ou fermé ?
+Boat | Bateau | Visage + Discret | activité commune | ouvert
+Love | Même étage | Neutre -> Visage | image | ouvert puis fermé
+Heroic | Hôtel | Discret | lieux/musique | fermé
+
+Ok, les 4 colonnes finales pour ta BDD. Simples:
+
+*Colonne 1: SCÈNE*
+C'est quoi qui se passe.
+Exemples: boat trip, sudden love, reading heroic stories, group history
+C'est ton LOOP / SPIKE.
+
+*Colonne 2: LIEU-PROP*
+Où ça se passe, utilisé comme indice de jeu.
+Exemples: même étage, bateau, hôtel, appart 3B
+Ça remplace adresse / tel, mais en fictif.
+C'est le décor qui dit si on est proche ou loin.
+
+*Colonne 3: PROFIL*
+Qui parle et comment il poste.
+- Neutre = avant de briser la glace
+- Visage = poste avec visage + voix + émotions (Facebook style)
+- Discret = poste sans visage, avec lieux + musiques + pseudo
+
+C'est là où tu notes A ou B.
+
+*Colonne 4: OUVERTURE*
+Qu'est-ce qu'on choisit de montrer ou cacher. C'est ton thème "seeing the world your way".
+
+- OUVERT = je poste image + voix + activité ensemble, tout le monde voit
+- FERMÉ = je poste seulement le monde (photos du monde) mais pas mon image
+- SÉPARÉ = je poste image séparée de la voix, je choisis mes termes
+
+Exemples:
+
+SCÈNE	LIEU-PROP	PROFIL	OUVERTURE
+boat trip	même bateau	Visage + Discret	OUVERT - activité commune
+sudden love	même étage 3	Neutre -> Visage	SÉPARÉ - voix sans image
+reading heroic	hôtel	Discret	FERMÉ - lieux + musique
+
+
 
 Summary
 A poetic, multimedia project concept about chance encounters, identity and music that mixes narrative, profiles and interactive elements.
