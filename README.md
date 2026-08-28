@@ -1,6 +1,6 @@
 # music-at-first-sight
 Hey
-- deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville.
+- deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret. 
 Summary
 A poetic, multimedia project concept about chance encounters, identity and music that mixes narrative, profiles and interactive elements.
 Core idea
