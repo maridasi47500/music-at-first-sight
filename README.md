@@ -1,5 +1,6 @@
 # music-at-first-sight
 Hey
+- deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville.
 Summary
 A poetic, multimedia project concept about chance encounters, identity and music that mixes narrative, profiles and interactive elements.
 Core idea
