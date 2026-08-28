@@ -1,6 +1,81 @@
 # music-at-first-sight
 Hey
-- deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret. 
+- deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret.
+
+
+
+
+Option A + Option B ensemble = *situation limite invivable mais supportable.*
+
+Pourquoi ?
+
+* 2 modes de communication qui ne parlent pas la même langue:*
+
+- *Visage*: Il parle avec son visage. Il est exposé. Chaque mot qu'il dit, c'est son image publique qui parle. Il ne peut pas dire un truc sans que ça soit jugé. Il est obligé d'assumer.
+
+- *Discret*: Il parle SANS image publique. Il poste un lieu, une musique, un bout de phrase. Il n'a pas de visage à défendre. Il peut dire ce qu'il veut, disparaître quand il veut.
+
+Donc quand Visage parle à Discret, c'est déséquilibré:
+
+- 
+
+*Pourquoi c'est invivable pour Discret quand il parle à Visage:*
+
+1. *Il est aspiré.* Visage parle toujours avec son image publique, même en privé. Quand Discret lui parle, sans le vouloir il devient un personnage dans la story de Visage. Il perd son statut discret.
+
+2. *Il n'a pas d'armure.* Visage est habitué à être vu, jugé, commenté. Discret non. Donc chaque mot de Visage qui est trop fort, trop public, ça brûle Discret. Il n'a pas l'habitude.
+
+3. *Il parle à un mur d'image.* Discret parle à une personne. Mais il a en face quelqu'un qui parle à ses followers à travers lui. Il ne sait jamais si on lui parle vraiment à lui, ou si on utilise sa conversation pour nourrir l'image publique.
+
+- Exemple: Discret dit un truc perso. Visage répond "c'est intéressant, je pourrais en faire une vidéo". Pour Discret, c'est violent.
+
+- *Pourquoi c'est quand même supportable pour Discret:*
+
+- Parce que Discret garde le seul pouvoir que Visage n'a plus: *choisir ses termes.*
+
+- Il poste son visage moins souvent = il peut disparaître.
+- Il poste des lieux, de la musique = il peut parler sans se montrer.
+- Il peut couper la conversation, ne pas répondre, ne pas poster.
+
+- Visage ne peut pas. Visage doit toujours répondre, toujours poster.
+
+- Donc pour Discret, la situation est:
+*Invivable* = je parle à quelqu'un qui a un visage public qui m'engloutit.
+*Supportable* = je peux me taire, je peux ne pas poster, je peux rester discret.
+
+
+
+
+
+*ÉTAPE 0 - Avant la glace:*
+2 influenceurs (femme ou homme) se croisent au même étage.
+Tant qu'ils n'ont pas brisé la glace, ils ne sont ni Discret ni Visage. Ils sont neutres, juste 2 personnes qui se ressemblent. Rien n'est joué.
+
+*C'est la glace qui crée les rôles.*
+
+*POSSIBILITÉ 1 - Ils brisent MAL la glace:*
+Ils se parlent mal, en compétition.
+Dès ce moment, ils se figent en Visage vs Discret pour se protéger. Un s'expose trop, l'autre se cache trop.
+Ça peut mal se passer: blocage, rivalité, ils ne se recroiseront plus au même étage de la même façon.
+
+*POSSIBILITÉ 2 - Ils ont DÉJÀ brisé la glace:*
+La glace est brisée, donc les rôles Visage / Discret existent déjà.
+
+Là, 2 fins possibles:
+- *Mal*: Visage utilise Discret, Discret se sent envahi. Il coupe. Séparation.
+- *Bien*: Ils comprennent le truc. L'image de Visage c'est intime, Discret la protège. Ils échangent, prennent le même bateau, choisissent de nouveaux termes. Ils se recroisent au même étage mais plus en rivaux.
+
+
+> Même étage + pas de glace = pas de rôle. La glace = le moment où on devient Visage ou Discret. Après, c'est bien ou mal.
+
+
+
+
+> SPIKE = Visage parle fort avec son image
+> CRASH pour Discret = il se sent effacé / utilisé
+> FADE = il se retire dans lieux / musiques pour redevenir supportable.
+
+
 Summary
 A poetic, multimedia project concept about chance encounters, identity and music that mixes narrative, profiles and interactive elements.
 Core idea
