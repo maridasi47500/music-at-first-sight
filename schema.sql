@@ -26,3 +26,12 @@ INSERT OR IGNORE INTO contacts (contact_id, first_name, last_name, email, phone)
 VALUES( '1', 'anonyme', 'noname', 'anonymous@email.fr', '+2653546434');
 INSERT OR IGNORE INTO contacts (contact_id, first_name, last_name, email, phone)
 VALUES( '2', 'anne onim', 'onim', 'anne.onim@email.com', '+86877779898');
+create table if not exists scene(
+        id integer primary key autoincrement,
+        lieu text,
+            lat text,
+            lon text,
+            profil_qui_parle text,
+            ce_qu_on_poste text,
+            ouvert_ou_ferme text
+      , created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP                );
