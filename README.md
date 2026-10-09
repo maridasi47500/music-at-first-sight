@@ -1,5 +1,7 @@
 # music-at-first-sight
 Hey
+- imagine que tu rencontres des gens pour une première rencontre et essaye de les fréquenter au début , ça peut être tellement transformatif, que tu veux passer à la télé comme une entrée/un début pour cohabiter ensemble, même si on se connaît pas encore tres bien, ouapprendre à écouter/jouer la même musique/parler la même langue
+- 
 - deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret.
 
 
