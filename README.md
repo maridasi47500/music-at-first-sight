@@ -9,6 +9,19 @@ Hey
 - to. âme sœur ou toi même peut visiter l'appartement comme visiteur ou. touriste mais la rencontre peut être sur le point d'être explosive, à tout moment le bon moment peut se transformer en mauvais moment etc 
 - demande toi si tu ressembles tellement à ton âme sœur ( mentalement) que vous pouvez vous rentrer la tête dedans et la situation peut mal tourner
 
+
+en mode artisans tu fais des music video/ code html /php
+
+clean bandit est quand tu fais des videos pop à diffuser , tu tiens un compte de reseaux sociaux avec des images en lien avec les video de musique, comme un(e) idole
+
+from dusk till dawn Symfony : I have been hearing symphonies à rhapsody for you and me, tout ce qu'on sait des gens est qu'ils ont entendu des symphonies. leur projet from dusk till dawn : chercher à se rendre utile pour la communauté : how to follo people carrier path after graduation ? how to feed homeless ? how to fulfill dreams I dying children ? during the whole night or the whole day
+
+- awful mode the contrary of hack 4 good
+
+
+- imagine un voyage amazone dans un lieu ou le nom raconte ton origine (même pour de faux)
+- il y a deux sortes de profils dans les reseau sociaux qui s'opposent
+- tu racontent les scènes du voyage 
 - imagine que tu rencontres des gens pour une première rencontre et essaye de les fréquenter au début , ça peut être tellement transformatif, que tu veux passer à la télé comme une entrée/un début pour cohabiter ensemble, même si on se connaît pas encore tres bien, ouapprendre à écouter/jouer la même musique/parler la même langue
 - 
 - deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret.
