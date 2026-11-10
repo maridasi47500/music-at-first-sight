@@ -1,5 +1,14 @@
 # music-at-first-sight
 Hey
+- sélectionne un profil de musicien(ne) à l'aéroport qui serait ton âme sœur
+- tu as déjà entendu des symphonies
+- ce que tu voudrais faire ce St déposer l'empreinte de tes main dan shall of fame ou un truc qui ressemble, même pour de faux
+- tes origines d'amazone tu les trouves oeut etre pas dans un lieu mais tu peux voyager ensemble
+- choisis une adresse précise avec le hall d'appartement le numéro d'étage , tous les détails que peut contenir l'adresse pour accéder à la porte du paillasson.
+- 
+- to. âme sœur ou toi même peut visiter l'appartement comme visiteur ou. touriste mais la rencontre peut être sur le point d'être explosive, à tout moment le bon moment peut se transformer en mauvais moment etc 
+- demande toi si tu ressembles tellement à ton âme sœur ( mentalement) que vous pouvez vous rentrer la tête dedans et la situation peut mal tourner
+
 - imagine que tu rencontres des gens pour une première rencontre et essaye de les fréquenter au début , ça peut être tellement transformatif, que tu veux passer à la télé comme une entrée/un début pour cohabiter ensemble, même si on se connaît pas encore tres bien, ouapprendre à écouter/jouer la même musique/parler la même langue
 - 
 - deux influenceur(s) ou non influenceurs (ses) se sont croisés au même étage d'un bâtiment en ville et ont révélé leur secret ou ont été hacke hacke sur leur secret.
